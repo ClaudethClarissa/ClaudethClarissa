@@ -2,91 +2,41 @@
 
 ### Data Science | Data Analytics | Computational Neuroscience
 
-I'm a Physics MSc graduate from the University of Calgary, specializing in Computational Neuroscience, with experience in scientific computing, statistical analysis, and data-driven research.
+I'm a Physics MSc graduate from the **University of Calgary**, specializing in Computational Neuroscience. My work combines quantitative reasoning, programming, and statistical methods to explore complex datasets and turn results into meaningful insights.
 
-My background combines physics, programming, and computational methods to investigate complex systems. During my graduate research, I analyzed neuroimaging data to study brain dynamics associated with depression and anxiety in adolescence.
-
-I'm currently expanding my portfolio in Data Analytics and Data Science, bringing a strong foundation in quantitative reasoning, research, and problem-solving.
-
----
-
-## 📂 Data Science Portfolio
-
-A collection of projects demonstrating my experience in data analysis, statistical modeling, scientific computing, and visualization.
-
-### [Explore My Data Science Portfolio](https://github.com/ClaudethClarissa/data-science-portfolio)
-
-**Areas of focus:**
-
-- Exploratory Data Analysis and Data Cleaning
-- SQL and Data Management
-- Statistical Analysis and Modeling
-- Time Series Analysis
-- Data Visualization and Business Intelligence
-- Machine Learning
-- Scientific Computing
-
----
-
-## 🚀 Featured Projects
-
-### 🌦️ Meteorological Data Analysis
-
-Exploratory analysis and time series investigation of historical meteorological data from Navojoa, Mexico.
-
-**Tools:** Python, Pandas, Matplotlib, Seaborn
-
-[View Project](https://github.com/ClaudethClarissa/Meteorological-Data-Analysis)
-
-### 🌎 American COVID-19 Analysis
-
-Data analysis and visualization of COVID-19 records.
-
-[View Project](https://github.com/ClaudethClarissa/American-Covid-Analysis)
-
-### 🧠 Detecting Depression-Related Language in Tweets
-
-A machine learning project using decision trees and unigram, bigram, and trigram features to classify depression-related language in tweets. Includes a corrected train/test evaluation, confusion matrices, decision tree visualizations, and a vocabulary ablation study to examine what happens when explicit depression-related words are removed.
-
-**Tools:** Python, Pandas, Scikit-learn, Matplotlib, Jupyter
-
-[View Project](https://github.com/ClaudethClarissa/Depression_Sentiment_Analysis)
-
-*Additional projects are being documented and added to the portfolio.*
-
----
-
-## 🛠️ Technical Skills
-
-**Programming & Data:** Python, SQL, R, MATLAB, NumPy, Pandas, SciPy
-
-**Statistics & Machine Learning:** Scikit-learn, Statistical Modeling, Clustering, Time Series Analysis, Network Analysis
-
-**Visualization & BI:** Matplotlib, Seaborn, Power BI, Tableau
-
-**Research & Computing:** Jupyter, Linux, Git, High-Performance Computing, Neuroimaging Analysis
+I'm interested in opportunities at the intersection of **data science, analytics, and research**, where I can apply my background in scientific computing, modeling, and problem-solving.
 
 ---
 
 ## 🔬 Research Background
 
-My MSc research focused on applying computational and statistical methods to investigate brain dynamics in adolescent depression and anxiety.
+During my MSc, I investigated **brain dynamics associated with depression and anxiety in adolescents** using resting-state fMRI, diffusion MRI, and computational methods inspired by physics and network science.
 
-My research experience includes:
+My work brought together functional connectivity, graph theory, time-series analysis, and statistical modeling to examine how brain organization and dynamics relate to mental-health symptoms. I also explored symptom-based subtypes beyond traditional diagnostic categories.
 
-- Functional and diffusion MRI analysis
-- Functional connectivity and graph theory
-- Time series and scale-free dynamics
-- Statistical hypothesis testing and regression
-- Network-based analysis and unsupervised learning
-
-This scientific background shapes my approach to data science: understanding the data, choosing appropriate methods, and interpreting results carefully.
+This research strengthened my experience with complex data pipelines, reproducible analyses, quantitative interpretation, and communicating scientific findings.
 
 ---
 
-## 🌱 Current Focus
+## 🛠️ Technical Skills
 
-I'm developing reproducible, well-documented projects that connect statistical analysis with practical applications in Data Science and Analytics.
+**Programming & Data:** Python, SQL, R, MATLAB, Pandas, NumPy, SciPy
+
+**Statistics & Machine Learning:** Scikit-learn, Regression, Clustering, Hypothesis Testing, Time Series Analysis, Network Analysis
+
+**Visualization & BI:** Matplotlib, Seaborn, Power BI, Tableau
+
+**Research & Computing:** Jupyter, Git, Linux, High-Performance Computing, Neuroimaging Analysis
+
+---
+
+## 📂 Data Science & Analytics Portfolio
+
+I document selected projects in **machine learning, exploratory data analysis, statistical modeling, scientific computing, and data visualization** in a dedicated portfolio.
+
+### [Explore My Data Science Portfolio](https://github.com/ClaudethClarissa/data-science-portfolio)
+
+Each project includes its methodology, code, results, and, where applicable, visualizations and discussion of limitations.
 
 ---
 
