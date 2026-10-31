@@ -44,11 +44,13 @@ Data analysis and visualization of COVID-19 records.
 
 [View Project](https://github.com/ClaudethClarissa/American-Covid-Analysis)
 
-### 🪐 Exoplanet Habitability
+### 🧠 Detecting Depression-Related Language in Tweets
 
-A computational science project exploring exoplanet habitability.
+A machine learning project using decision trees and unigram, bigram, and trigram features to classify depression-related language in tweets. Includes a corrected train/test evaluation, confusion matrices, decision tree visualizations, and a vocabulary ablation study to examine what happens when explicit depression-related words are removed.
 
-[View Project](https://github.com/ClaudethClarissa/Exoplanet-Habitability)
+**Tools:** Python, Pandas, Scikit-learn, Matplotlib, Jupyter
+
+[View Project](https://github.com/ClaudethClarissa/Depression_Sentiment_Analysis)
 
 *Additional projects are being documented and added to the portfolio.*
 
