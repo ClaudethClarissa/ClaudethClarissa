@@ -14,7 +14,15 @@ During my MSc, I investigated **brain dynamics associated with depression and an
 
 My work brought together functional connectivity, graph theory, time-series analysis, and statistical modeling to examine how brain organization and dynamics relate to mental-health symptoms. I also explored symptom-based subtypes beyond traditional diagnostic categories.
 
-This research strengthened my experience with complex data pipelines, reproducible analyses, quantitative interpretation, and communicating scientific findings.
+---
+
+## 📂 Data Science & Analytics Portfolio
+
+I document selected projects in **machine learning, exploratory data analysis, statistical modeling, scientific computing, and data visualization** in a dedicated portfolio.
+
+### [Explore My Data Science Portfolio](https://github.com/ClaudethClarissa/data-science-portfolio)
+
+Each project includes its methodology, code, results, and, where applicable, visualizations and discussion of limitations.
 
 ---
 
@@ -30,15 +38,6 @@ This research strengthened my experience with complex data pipelines, reproducib
 
 ---
 
-## 📂 Data Science & Analytics Portfolio
-
-I document selected projects in **machine learning, exploratory data analysis, statistical modeling, scientific computing, and data visualization** in a dedicated portfolio.
-
-### [Explore My Data Science Portfolio](https://github.com/ClaudethClarissa/data-science-portfolio)
-
-Each project includes its methodology, code, results, and, where applicable, visualizations and discussion of limitations.
-
----
 
 ## 📫 Connect
 
