@@ -14,6 +14,14 @@ My work brought together functional connectivity, graph theory, time-series anal
 
 ---
 
+## 📚 Scientific Publications
+
+**Hernández, C.**, & Michaelian, K. (2022). [*Dissipative Photochemical Abiogenesis of the Purines*](https://doi.org/10.3390/e24081027). *Entropy, 24*(8), 1027.
+
+First-author, peer-reviewed research modeling the photochemical formation of purines under proposed early-Earth conditions using non-equilibrium thermodynamics and reaction–diffusion equations.
+
+---
+
 ## 📂 Data Science & Analytics Portfolio
 
 I document selected projects in **machine learning, exploratory data analysis, statistical modeling, scientific computing, and data visualization** in a dedicated portfolio.
