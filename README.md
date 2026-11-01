@@ -4,8 +4,6 @@
 
 I'm a Physics MSc graduate from the **University of Calgary**, specializing in Computational Neuroscience. My work combines quantitative reasoning, programming, and statistical methods to explore complex datasets and turn results into meaningful insights.
 
-I'm interested in opportunities at the intersection of **data science, analytics, and research**, where I can apply my background in scientific computing, modeling, and problem-solving.
-
 ---
 
 ## 🔬 Research Background
